@@ -1,17 +1,16 @@
 {
-	"host": "CoxyrealmsD.aternos.me",
-	"port": "49718",
-	"username": "Mr Origami",
-	"logger": [ true
-		, "true : displays not necessary logs (ex: key input logs).",
-		"false : displays only necessary logs."
-	],
+  "host": "CozyrealmsD.aternos.me",
+  "port": 49718,
+  "username": "Mr_Origami",
 
+  "logger": true,
 
-	"DO_NOT_EDIT_CONFIGS_DOWN_BELOW": "IF YOU DON'T KNOW WHAT YOU'RE DOING",
-	"actionDelays": [500, 1000, 1500, 2000, 2500, 3000],
-	"retryTimes": {
-		"ms": "30000",
-		"text": "30s"
-	}
+  "DO_NOT_EDIT_CONFIGS_DOWN_BELOW": "IF YOU DON'T KNOW WHAT YOU'RE DOING",
+
+  "actionDelays": [500, 1000, 1500, 2000, 2500, 3000],
+
+  "retryTimes": {
+    "ms": 30000,
+    "text": "30s"
+  }
 }
